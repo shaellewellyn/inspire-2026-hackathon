@@ -65,7 +65,7 @@ export const locations = [
   },
   {
     id: 11,
-    name: "Cattle Poiny Lookout",
+    name: "Cattle Point Lookout",
     city: "Victoria",
     busyness: 4
   },
