@@ -62,6 +62,30 @@ export const locations = [
     name: "Oak Bay Marina",
     city: "Victoria",
     busyness: 20
+  },
+  {
+    id: 11,
+    name: "Cattle Poiny Lookout",
+    city: "Victoria",
+    busyness: 4
+  },
+  {
+    id: 12,
+    name: "Cadboro Bay",
+    city: "Victoria",
+    busyness: 11
+  },
+  {
+    id: 13,
+    name: "The Cove",
+    city: "Victoria",
+    busyness: 10
+  }, 
+  {
+    id: 14,
+    name: "Galloping Goose Trail",
+    city: "Victoria",
+    busyness: 10
   }
 ];
 
